@@ -18,5 +18,19 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="debugutils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="debugutils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="hangmantests.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="hangmanutils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
